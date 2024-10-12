@@ -37,7 +37,7 @@ const Home = () => {
           </nav>
           <div className="hidden md:flex list-none gap-4 ">
             <Button className="bg-black text-white rounded-full">
-              <Link to="/">Home</Link>
+              <Link to="/home">Home</Link>
             </Button>
             <Button className="bg-black text-white rounded-full">
               <Link to="/contact">Get In Touch!</Link>
