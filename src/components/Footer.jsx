@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
               <div>
               <p className="text-lg font-bold text-black">
-                "Welcome To MEDBUG."
+                "Welcome"
               </p>
 
               </div>
@@ -51,11 +51,11 @@ const Footer = () => {
                   GET IN TOUCH
                 </h2>
                 <ul className="text-sm text-black">
-                  <li className="mb-2">Email: medbug24@gmail.com </li>
-                  <li className="mb-2">Email: fizza.asghar24@gmail.com </li>
+                  <li className="mb-2">Email: s.s.blaster.786@gmail.com </li>
+                  <li className="mb-2">Email:sahilkhan089april@gmail.com </li>
                   <li className="mb-2">
-                  LinkedIn:
-  <a href="https://www.linkedin.com/in/medicalwriter-fizza" target="_blank" rel="noopener noreferrer"> {/* Ensure the link is complete */}
+                  Instagram:
+  <a href="https://www.instagram.com/iiii.eeeeooo/?igsh=ZGUzMzM3NWJiOQ%3D%3D" target="_blank" rel="noopener noreferrer"> {/* Ensure the link is complete */}
     <img
       src="linkedin.png" // Replace with the actual path to your LinkedIn icon image
       alt="LinkedIn Icon"

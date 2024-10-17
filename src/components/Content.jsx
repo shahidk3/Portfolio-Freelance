@@ -85,7 +85,7 @@ const Content = () => {
     className="flex flex-col items-center text-center text-lg mb-4 md:mb-6 lg:mb-8 max-w-2xl bg-white bg-opacity-70 p-4 rounded-md" // Added a background for better visibility
   >
     <p className="font-extrabold mb-2 sm:text-xl md:text-2xl lg:text-3xl md:mb-4">
-      Fizza Asghar
+      Sahil Khan 
     </p>
 
     <p className="mb-6 md:mb-8">
