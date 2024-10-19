@@ -30,8 +30,8 @@ const Contact = () => {
               </span>
               <div>
                 <p className="font-bold">E-Mail</p>
-                <p>s.s.blaster786@gmail.com</p>
-                <p>sahilkhan089april@gmail.com </p>
+                <p>medbug24@gmail.com</p>
+                <p>fizza.asghar24@gmail.com</p>
               </div>
             </div>
             <div className="flex items-center">
@@ -39,8 +39,8 @@ const Contact = () => {
                 <i className="fas fa-envelope"></i>
               </span>
               <div className="flex items-center mt-4"> {/* Added mt-4 for top margin */}
-  <p className="font-bold mr-2">Instagram:</p>
-  <a href="https://www.instagram.com/iiii.eeeeooo/?igsh=ZGUzMzM3NWJiOQ%3D%3D" target="_blank" rel="noopener noreferrer"> {/* Ensure the link is complete */}
+  <p className="font-bold mr-2">Linkedin:</p>
+  <a href="http://linkedin.com/in/medicalwriter-fizza" target="_blank" rel="noopener noreferrer"> {/* Ensure the link is complete */}
     <img
       src="linkedin.png" // Replace with the actual path to your LinkedIn icon image
       alt="LinkedIn Icon"
